@@ -1,0 +1,6 @@
+[book]
+authors = ["Yehor Tretiakov, Iliia Stetsenko"]
+language = "en"
+multilingual = false
+src = "src"
+title = "net-agent-guide"
