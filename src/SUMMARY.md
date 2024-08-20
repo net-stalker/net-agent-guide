@@ -9,4 +9,4 @@
 
 # Developer guide
 
-- [Chapter](./developer_guide/developer_guide.md)
+- [Developer guide](./developer_guide/developer_guide.md)
